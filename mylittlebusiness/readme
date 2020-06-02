@@ -1,5 +1,5 @@
 download Monthly_Ecommerce_Sales_Data.csv and flow_my_little_business.zip (don't unzip)
-Import into dataprep Monthly_Ecommerce_Sales_Data.csv source data
+Import into dataprep https://clouddataprep.com/ Monthly_Ecommerce_Sales_Data.csv source data
 Import in the Flow view flow_my_little_business.zip 
 The Data Studio dashboard is here https://datastudio.google.com/reporting/0427371d-95ea-4c1b-b18b-2449b367578c
 Make a copy of it so you can customize it and connect to your data source
