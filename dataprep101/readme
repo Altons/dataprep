@@ -1,1 +1,6 @@
-Goes with this walkthrough video
+Whath the associated Youtube walkthrough video to understand what this data is about
+
+The 2 data files can be imported from the Cloud Dataprep flow workspace 
+
+The .wrangle file contains the Cloud Dataprep recipe steps that you can copy and past one by one in the data transformation grid interface. 
+Display the recipe, add a new recipe step and past the recipe.
