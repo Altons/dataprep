@@ -1,10 +1,11 @@
 Watch the associated Youtube Cloud Dataprep 101 walkthrough video to get what is data is for
 https://youtu.be/MmVokoKH97k
 
-1) Download the 3 file to your local disk
-2) Go to clouddataprep.com 
-3) Click the Library icon on the left and import the 2 csv files
-4) Click the Flow icon on the left, click ... "Import Flow" and import the flow zip file 
-4) Click the newly created Marketing Analytics Walkthrough Certification flow
-6) If the sources are not mapped, connect the 2 data sources to the recipe
-7) Edit the recipe "Advertising_Clickstream_walkthrough" and start wrangling
+1) Download the 101_Walkthrough_data.zip file to your local disk
+2) unzip the file 
+3) Go to clouddataprep.com 
+4) Click the Library icon on the left and import the 2 csv files
+5) Click the Flow icon on the left, click ... "Import Flow" and import the flow zip file 
+6) Click the newly created Marketing Analytics Walkthrough Certification flow
+7) If the sources are not mapped, connect the 2 data sources to the recipe
+8) Edit the recipe "Advertising_Clickstream_walkthrough" and start wrangling
